@@ -1,0 +1,146 @@
+/*form*/
+.cart-form{
+    margin:3px auto !important;
+   
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:20px;
+    
+}
+.position{
+   
+}
+form{
+    padding:5rem ;
+    background-color: black;
+    margin:2rem auto;
+    box-shadow:2px 2px 5px 0px rgba(0,0,0,0.2);
+    background:white!important;
+
+  
+}
+.inpt{
+    text-align: center;
+    border:2px solid black;
+outline:none !important;
+border-radius: 3px;
+text-transform: capitalize;
+width:100%;
+    
+}
+.email{
+    text-transform: lowercase !important;
+}
+.btn-form{
+    padding:5px 10px;
+    background-color: transparent;
+    outline:none;
+    color:#5CDB95;
+    border:2px solid #5CDB95;
+     font-family: 'Staatliches', cursive;
+     font-size:20px;
+     transition: all 0.3s linear;
+     cursor: pointer;
+}
+.btn-form:hover{
+    background-color: black;
+}
+/*form*/
+
+
+/* empty */
+.far, .fa-frown{
+    font-size:20rem;
+    color:#242582;
+}
+.empty{
+    text-align: center;
+    
+}
+.empty h1{
+    font-weight: bold;
+    font-size: 20px;
+}
+/* empty */
+
+/* cart coulumns */
+.container-fluid{
+    text-align: center !important;
+    font-family:Arial, Helvetica, sans-serif !important;
+    font-weight: bold ;
+    margin-top:1rem ;
+    text-transform: capitalize !important;
+}
+/* cartitems */
+
+.cart-items-main{
+    text-transform: capitalize;
+    text-align: center;
+     margin:3rem 0;
+}
+.cart-items-main .cart-items-img{
+    width:5rem;
+    height: 5rem;
+    
+}
+.quantity{
+    display:flex;
+    justify-content: center;
+}
+.quantity .btn-black{
+    border:2px solid #242582!important;
+    cursor: pointer !important;
+    background-color:#242582 !important;
+    color:white !important;
+    transition: all 0.5s linear;
+}
+.quantity .btn-black:hover{
+    background-color: black !important;
+}
+.fixed{
+    background-color: #242582 !important;
+    border:2px solid #242582!important;
+    color:white !important;
+}
+.fa-trash{
+    color:#F64672;
+    cursor:pointer;
+}
+.per-total{
+    font-weight: bold;
+    color:#242582;
+}
+
+
+/* carttotal */
+
+
+.btn-outline{
+    border:2px solid #5CDB95 !important;
+    font-family: 'Staatliches', cursive;
+    font-size:20px !important;
+    color:#5CDB95 !important;
+    transition: all 0.5s linear;
+
+}
+.btn-outline:hover{
+    background-color: black;
+}
+.btn-outline-danger{
+    font-size:20px !important;
+    font-family:'Staatliches', cursive !important;
+    transition: all 0.5s linear;
+}
+.btn-outline-danger:hover{
+    background-color: #F64672 !important;
+    color:white;
+}
+.extra{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.extra-price{
+    font-weight: bold;
+    font-size: 30px;
+    color:#242582;
+    font-family: Arial, Helvetica, sans-serif;
+}

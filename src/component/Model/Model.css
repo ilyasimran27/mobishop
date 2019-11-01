@@ -1,0 +1,29 @@
+
+.box-model{
+   
+   background:rgba(0,0,0,0.3);
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+     display:flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Staatliches', cursive;
+   
+}
+#model{
+    background-color: white;
+    margin:0 auto;
+    text-align: center;
+    
+}
+.price-model-rs{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#242582;
+    font-weight: bold;
+}
+.buttons{
+    margin:5px 0;
+}

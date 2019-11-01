@@ -1,0 +1,77 @@
+.title{
+    margin:3px auto !important;
+    text-align: center !important;
+    font-weight: bold;
+    padding-bottom: 50px;
+    color:#242582;
+}
+.image{
+    text-align: center !important;
+    margin:0 auto !important;
+
+    
+}
+
+.c-name{
+    font-family:'Staatliches', cursive; 
+    font-size: 20px;
+}
+.company{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size:40px;
+    font-family: 'Staatliches', cursive;
+    color:rgba(3, 7, 3, 0.287);
+
+}
+.price{
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Staatliches', cursive;
+    
+
+}
+.p-price{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: normal;
+    font-weight: 300;
+    color:#242582;
+}
+.detailinfo{
+    font-family: 'Staatliches', cursive;
+    font-size:30px;
+    color:rgba(3, 7, 3, 0.287);
+}
+.btn-products{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-size: 20px !important;
+    padding:10px !important;
+    font-weight: bold !important;
+    margin:2px 2px !important;
+    color:#242582 !important;
+    background-color:transparent !important;
+    border:2px solid #242582 !important;
+}
+.btn-cart{
+    font-family: Arial, Helvetica, sans-serif !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+    padding:10px !important;
+    margin:2px 2px !important;
+    color:#5CDB95 !important;
+    background-color:transparent !important;
+    border:2px solid #5CDB95 !important;
+}
+.btn-cart:hover{
+    color:white !important;
+}
+.btn-products:hover{
+color:white !important;
+}
+.col-sm-12{
+    margin:0 auto !important;
+}
+.col-lg-6 ,.col-md-6{
+    text-align: start;
+}

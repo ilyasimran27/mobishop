@@ -1,0 +1,31 @@
+:root{
+  --mainGreen:#5CDB95;
+  --mainPurple:#242582;
+  --mainRed:#F64672;
+}
+body{
+  font-family: 'Indie Flower', cursive !important;
+  background-color:whitesmoke !important;
+  
+
+}
+.text-title{
+  font-family: fantasy;
+  letter-spacing: 0.4em;
+  text-transform: uppercase;
+}
+.text-purple{
+  color:var(--mainpPurple);
+
+}
+.text-green{
+color:var(--mainGreen);
+}
+.space{
+margin:0 auto !important;
+ 
+}
+
+.info{
+background-color:black !important;
+} 

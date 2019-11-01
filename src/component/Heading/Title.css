@@ -1,0 +1,11 @@
+.main-heading{
+    text-align: center;
+    padding:10px 0;
+
+text-transform: capitalize;
+}
+.title{
+    font-size:50px;
+    margin-left:5px;
+    text-transform: capitalize;
+}

@@ -1,0 +1,47 @@
+Button{
+    background-color:transparent !important;
+  }
+  .mr{
+   margin-left:10px;
+   text-transform: capitalize;
+  }
+  
+  .navbar-toggler ,.collapsed{
+    background-color: #fff !important;
+    color:white !important;
+  }
+  .logo{
+    width:80%;
+
+  }
+  .logo img{
+    width:70px;
+  }
+  .color{
+    background-color: #242582 !important;
+  }
+  .fas ,.fa-cart-plus{
+
+  }
+  Button:hover{
+    background-color: black !important;
+   
+  }
+  .nav-link{
+font-size: 30px;
+color:white !important;
+  }
+  .navbar-toggler:hover{
+    background-color: #fff !important;
+    color:white !important;
+  }
+  .collapsed:hover{
+    background-color: #fff !important;
+    color:white !important;
+  }
+  #comp-name{
+    color:#5CDB95;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-left:0.5rem;
+  }
